@@ -1,12 +1,12 @@
 # Misal 1
 
-kelime = 'Allah' # Uzunluğu 5
-print(len(kelime)) # len() fonksiyonu , bağımsız değişkenlerin içerdiği bir dizi karakter döndürür.
+kelime = 'Allah'    # Uzunluğu 5
+print(len(kelime))  # len() fonksiyonu , bağımsız değişkenlerin içerdiği bir dizi karakter döndürür.
 
 
 # Misal 2
 
-bos = '' # Uzunluğu 0
+bos = ''        # Uzunluğu 0
 print(len(bos)) # Herhangi bir dize boş olabilir. 
 
 
